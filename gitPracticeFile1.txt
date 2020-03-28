@@ -1,0 +1,1 @@
+This is example text in the first document of Coding Nomad's git practice Fundamentals lab 02. I am modifying this file for Q#2 practice. 
